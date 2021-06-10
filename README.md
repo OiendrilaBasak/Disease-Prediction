@@ -1,7 +1,7 @@
 # Disease-Prediction
 <h3>Team Members</h3><br/>  
 (a) Kaustav Deb<br/>  
-(b) Sayantika Chakraborty<br/>  
+(b) Sayantika Chakravarty<br/>  
 (c) Oiendrila Basak <br/>
 <h3>Domain:</h3><br/>
 Pharma<br/>
