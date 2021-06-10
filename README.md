@@ -31,7 +31,12 @@ The dataset has 5111 rows and 12 columns.
 <h3>Statistical Methods</h3><br/>
 <h4>Data Handling</h4><br/>
 After importing the data set in python we first drop the id column as it plays no role in predicting whether a person will suffer from stroke or not.After that we check for null values in the data set and find that the bmi column has 201 null values, we replace those null values by the mean value. Then we find out the data summary to have a rough idea of the population we are dealing with, the average age group, the average bmi etc.
-<h3>Discussions</h3><br/>
+<h3>Exploratory Data Analysis</h3><br/>
+ We visualize the different categorical features (hypertension, heart_disease,gender,smoking status,marital status,area of residence,occupation) using countplot and we draw boxplots for the continuous variables(age,bmi,average glucose level). These graphical representations will give us an idea of the effect these factors have on the target variable. <br/>
+ We also plot a histogram to obtain the frequency distribution of the continuous variables.<br/>
+ We use the corr() function to get the measure of correlation between different numerical factors and we plot this rectangular data as a color-encoded matrix using heatmap where the darker shades of colour represent a lower value than lighter shades.<br/>
+ We use pairplot to plot pairwise relationships in a dataset. By default, this function will create a grid of Axes such that each numeric variable in data will by shared across the y-axes across a single row and the x-axes across a single column. The diagonal plots are treated differently: a univariate distribution plot is drawn to show the marginal distribution of the data in each column.<br/>
+ <h3>Discussion</h3><br/>
 To do the EDA properly.
 <h3>Questions</h3><br/>
 1. how do we decide which outliers to drop and which to keep.<br/>
