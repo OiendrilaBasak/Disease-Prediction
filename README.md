@@ -1,5 +1,5 @@
 # Disease-Prediction
-<h3>Team Members<h3/><br/>  
+<h3>Team Members</h3><br/>  
 (a) Kaustav Deb  
 (b) Sayantika Chakraborty  
 (c) Oiendrila Basak <br/>
