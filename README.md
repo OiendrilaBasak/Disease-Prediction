@@ -37,7 +37,10 @@ After importing the data set in python we first drop the id column as it plays n
  We use the corr() function to get the measure of correlation between different numerical factors and we plot this rectangular data as a color-encoded matrix using heatmap where the darker shades of colour represent a lower value than lighter shades.<br/>
  We use pairplot to plot pairwise relationships in a dataset. By default, this function will create a grid of Axes such that each numeric variable in data will by shared across the y-axes across a single row and the x-axes across a single column. The diagonal plots are treated differently: a univariate distribution plot is drawn to show the marginal distribution of the data in each column.<br/>
  <h3>Discussion</h3><br/>
-To do the EDA properly.
+To do the EDA properly.<br/>
+Getting to know the domain of interest.<br/>
+Presenting the analysis in an organised way.<br/>
+Doing null checking before  looking into the summary of the data.<br/>
 <h3>Questions</h3><br/>
 1. how do we decide which outliers to drop and which to keep.<br/>
 2. 
