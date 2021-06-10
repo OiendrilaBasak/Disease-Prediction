@@ -32,7 +32,7 @@ The dataset has 5111 rows and 12 columns.
 <h4>Data Handling</h4><br/>
 After importing the data set in python we first drop the id column as it plays no role in predicting whether a person will suffer from stroke or not.After that we check for null values in the data set and find that the bmi column has 201 null values, we replace those null values by the mean value. Then we find out the data summary to have a rough idea of the population we are dealing with, the average age group, the average bmi etc.
 <h3>Discussions</h3><br/>
-To do the EDA properly
+To do the EDA properly.
 <h3>Questions</h3><br/>
 1. how do we decide which outliers to drop and which to keep.<br/>
 2. 
