@@ -4,6 +4,7 @@ Team Members<br/>
 (b) Sayantika Chakraborty  
 (c) Oiendrila Basak <br/>
 Domain: Pharma<br/>
-AIM: To predict the occurence of a disease<br/>
-Data: obtained from Kaggle on Diabetes<br/>
-Data link: https://www.kaggle.com/uciml/pima-indians-diabetes-database
+AIM: To predict the occurence of a stroke based on a number of personal details provided<br/>
+Data: obtained from Kaggle on stroke<br/>
+Data link: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset<br/>
+<h1> Problem statement <h1/><br/>
