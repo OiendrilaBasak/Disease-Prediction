@@ -15,12 +15,12 @@ To predict whether a patient is likely to get stroke based on the input paramete
 The dataset has 5111 rows and 12 columns.
 <h3>Software:</h3>Python
 <h3>Attribute Information</h3><br/>
-1) id: unique identifier<br/>
+1) id: unique identifier of an individual<br/>
 2) gender: "Male", "Female" or "Other"<br/>
 3) age: age of the patient<br/>
 4) hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension<br/>
 5) heart_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease<br/>
-6) ever_married: "No" or "Yes"<br/>
+6) ever_married: Marital status of the individual. "No" or "Yes"<br/>
 7) work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"<br/>
 8) Residence_type: "Rural" or "Urban"<br/>
 9) avg_glucose_level: average glucose level in blood<br/>
