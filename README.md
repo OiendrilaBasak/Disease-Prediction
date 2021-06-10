@@ -34,5 +34,5 @@ After importing the data set in python we first drop the id column as it plays n
 <h3>Discussions</h3><br/>
 To do the EDA properly
 <h3>Questions</h3><br/>
-1. how do we decide which outliers to drop and which to keep.
+1. how do we decide which outliers to drop and which to keep.<br/>
 2. 
