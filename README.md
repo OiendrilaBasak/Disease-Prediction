@@ -12,6 +12,7 @@ Data link: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset<br/>
 <h3> Problem statement </h3><br/>
 To predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
 <h3>Data Description</h3><br/>
+The dataset has 5111 rows and 12 columns.
 <h3>Software:</h3>Python
 <h3>Attribute Information</h3><br/>
 1) id: unique identifier<br/>
@@ -27,3 +28,11 @@ To predict whether a patient is likely to get stroke based on the input paramete
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*<br/>
 12) stroke: 1 if the patient had a stroke or 0 if not<br/>
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient<br/>
+<h3>Statistical Methods</h3><br/>
+<h4>Data Handling</h4><br/>
+After importing the data set in python we first drop the id column as it plays no role in predicting whether a person will suffer from stroke or not.After that we check for null values in the data set and find that the bmi column has 201 null values, we replace those null values by the mean value. Then we find out the data summary to have a rough idea of the population we are dealing with, the average age group, the average bmi etc.
+<h3>Discussions</h3><br/>
+To do the EDA properly
+<h3>Questions</h3><br/>
+1. how do we decide which outliers to drop and which to keep.
+2. 
